@@ -1,0 +1,143 @@
+{
+    "beforeAfter": [
+      {
+        "id": 1,
+        "image1": "https://storage.googleapis.com/eco-lar-bucket/3D/before-after/1/1.1.jpg",
+        "image2": "https://storage.googleapis.com/eco-lar-bucket/3D/before-after/1/1.jpeg"
+      },
+      {
+        "id": 2,
+        "image1": "https://storage.googleapis.com/eco-lar-bucket/3D/before-after/2/2.jpg",
+        "image2": "https://storage.googleapis.com/eco-lar-bucket/3D/before-after/2/2.2.jpeg"
+      },
+      {
+        "id": 3,
+        "image1": "https://storage.googleapis.com/eco-lar-bucket/3D/before-after/3/3.jpg",
+        "image2": "https://storage.googleapis.com/eco-lar-bucket/3D/before-after/3/3.1.jpeg"
+      },
+      {
+        "id": 4,
+        "image2": "https://storage.googleapis.com/eco-lar-bucket/3D/before-after/4/4.jpeg",
+        "image1": "https://storage.googleapis.com/eco-lar-bucket/3D/before-after/4/4.1.jpg"
+      },
+      {
+        "id": 5,
+        "image2": "https://storage.googleapis.com/eco-lar-bucket/3D/before-after/5/5.jpeg",
+        "image1": "https://storage.googleapis.com/eco-lar-bucket/3D/before-after/5/5.1.jpg"
+      },
+      {
+        "id": 6,
+        "image2": "https://storage.googleapis.com/eco-lar-bucket/3D/before-after/7/7.jpeg",
+        "image1": "https://storage.googleapis.com/eco-lar-bucket/3D/before-after/7/7.1.jpg"
+      }
+    ],
+    
+  "images" : [
+      {
+        "id": 1,
+        "image": "https://storage.googleapis.com/eco-lar-bucket/3D/portfolio/video_nD/golf%2019_1%20-%20Photo.jpg"
+      },
+      {
+        "id": 2,
+        "image": "https://storage.googleapis.com/eco-lar-bucket/3D/portfolio/video_nD/golf%2019_10%20-%20Foto.jpg"
+      },
+      {
+        "id": 3,
+        "image": "https://storage.googleapis.com/eco-lar-bucket/3D/portfolio/video_nD/golf%2019_14%20-%20Foto.jpg"
+      },
+      {
+        "id": 4,
+        "image": "https://storage.googleapis.com/eco-lar-bucket/3D/portfolio/video_nD/golf%2019_6%20-%20Foto.jpg"
+      },
+      {
+        "id": 5,
+        "image": "https://storage.googleapis.com/eco-lar-bucket/3D/portfolio/video_nD/golf%2019_7%20-%20Foto.jpg"
+      },
+      {
+        "id": 6,
+        "image": "https://storage.googleapis.com/eco-lar-bucket/3D/portfolio/Captura%20de%20ecra%CC%83%202023-06-01%2C%20a%CC%80s%2010.24.37.png"
+      },
+      {
+        "id": 7,
+        "image": "https://storage.googleapis.com/eco-lar-bucket/3D/portfolio/Captura%20de%20ecra%CC%83%202023-06-01%2C%20a%CC%80s%2010.24.52.png"
+      },
+      {
+        "id": 8,
+        "image": "https://storage.googleapis.com/eco-lar-bucket/3D/portfolio/Captura%20de%20ecra%CC%83%202023-06-01%2C%20a%CC%80s%2010.24.59.png"
+      },
+      {
+        "id": 9,
+        "image": "https://storage.googleapis.com/eco-lar-bucket/3D/portfolio/Konnie%20bathroom_3%20-%20Foto.jpg"
+      },
+      {
+        "id": 10,
+        "image": "https://storage.googleapis.com/eco-lar-bucket/3D/portfolio/Lola%20versa%CC%83o%205_Photo%20-%203.jpg"
+      },
+      {
+        "id": 11,
+        "image": "https://storage.googleapis.com/eco-lar-bucket/3D/portfolio/MASTER%20SUITE%20WC%2001_4%20-%20Foto.jpeg"
+      },
+      {
+        "id": 12,
+        "image": "https://storage.googleapis.com/eco-lar-bucket/3D/portfolio/MASTER%20SUITE%20WC%202_3%20-%20Foto.jpeg"
+      },
+      {
+        "id": 13,
+        "image": "https://storage.googleapis.com/eco-lar-bucket/3D/portfolio/WC%20SERVIC%CC%A7O_2%20-%20Foto.jpeg"
+      },
+      {
+        "id": 14,
+        "image": "https://storage.googleapis.com/eco-lar-bucket/3D/portfolio/golf%209_10%20-%20Foto.jpg"
+      },      {
+        "id": 15,
+        "image": "https://storage.googleapis.com/eco-lar-bucket/3D/portfolio/golf%209_3%20-%20Foto.jpg"
+      },
+      {
+        "id": 16,
+        "image": "https://storage.googleapis.com/eco-lar-bucket/3D/portfolio/golf%209_8%20-%20Foto.jpg"
+      },
+      {
+        "id": 17,
+        "image": "https://storage.googleapis.com/eco-lar-bucket/3D/portfolio/video_nD/lote%2060%20rooftop_2%20-%20Foto.jpg"
+      },
+      {
+        "id": 18,
+        "image": "https://storage.googleapis.com/eco-lar-bucket/3D/portfolio/livingroom%20wine%20cellar_13%20-%20Foto.jpeg"
+      },
+      {
+        "id": 19,
+        "image": "https://storage.googleapis.com/eco-lar-bucket/3D/portfolio/livingroom%20wine%20cellar_26%20-%20Foto.jpeg"
+      },
+      {
+        "id": 20,
+        "image": "https://storage.googleapis.com/eco-lar-bucket/3D/portfolio/lote%2060%20rooftop_11%20-%20Foto.jpg"
+      },
+      {
+        "id": 21,
+        "image": "https://storage.googleapis.com/eco-lar-bucket/3D/portfolio/lote%2060%20rooftop_17%20-%20Foto.jpg"
+      },
+      {
+        "id": 22,
+        "image": "https://storage.googleapis.com/eco-lar-bucket/3D/portfolio/render%20master%20bathroom%20calcata_1%20-%20Photo.jpg"
+      },      {
+        "id": 23,
+        "image": "https://storage.googleapis.com/eco-lar-bucket/3D/portfolio/render%20master%20bathroom%20calcata_2%20-%20Foto.jpg"
+      },
+      {
+        "id": 24,
+        "image": "https://storage.googleapis.com/eco-lar-bucket/3D/portfolio/sadie%C2%B4s%20bathroom_1%20-%20Photo.jpg"
+      },
+      {
+        "id": 25,
+        "image": "https://storage.googleapis.com/eco-lar-bucket/3D/portfolio/sadie%C2%B4s%20bathroom_2%20-%20Foto.jpg"
+      },
+      {
+        "id": 26,
+        "image": "https://storage.googleapis.com/eco-lar-bucket/3D/portfolio/wc%20servic%CC%A7o%20golf%2014_2%20-%20Foto.jpg"
+      },
+      {
+        "id": 27,
+        "image": "https://storage.googleapis.com/eco-lar-bucket/3D/portfolio/wc%20servic%CC%A7o%20golf%2014_3%20-%20Foto.jpg"
+      }
+    ]
+}

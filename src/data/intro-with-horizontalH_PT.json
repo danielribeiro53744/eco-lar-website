@@ -1,0 +1,43 @@
+{
+  "content": [
+    {
+      "id": 1,
+      "title": { "first": "", "second": "A melhor vista numa vila exclusiva" },
+      "content": {
+        "first": "Espaços harmoniosos e confortáveis onde todos os cantos são convites para apreciar o pôr do sol.",
+        "second": ""
+      },
+      "image": "https://storage.googleapis.com/eco-lar-bucket/Intro-Horizontal/IMG_031.jpg"
+    },
+    {
+      "id": 2,
+      "title": { "first": "", "second": "O Poder da cor, cada espaço conta uma história" },
+      "content": {
+        "first": "O maximalismo extremo revela uma sensação de gosto inédito, de um lar único.",
+        "second": ""
+      },
+      "image": "https://storage.googleapis.com/eco-lar-bucket/Intro-Horizontal/IMG_056.jpg"
+    },
+    {
+      "id": 3,
+      "title": { "first": "", "second": "Paixão por viagens" },
+      "content": {
+        "first": "Viajar foi a inspiração onde colecionar momentos  transformou cada espaço.",
+        "second": ""
+      },
+      "image": "https://storage.googleapis.com/eco-lar-bucket/Intro-Horizontal/intro3.jpg"
+    },
+    {
+      "id": 4,
+      "title": {
+        "first": "",
+        "second": "Casa do Lago"
+      },
+      "content": {
+        "first": "Esplêndida vista para o lago, inspiração náutica com um toque exclusivo de elegância.",
+        "second": ""
+      },
+      "image": "https://storage.googleapis.com/eco-lar-bucket/Intro-Horizontal/intro4.jpg"
+    }
+  ]
+}

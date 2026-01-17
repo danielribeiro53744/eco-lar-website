@@ -1,0 +1,43 @@
+{
+  "features": "Best Features",
+  "service": "Our Services",
+  "more":"Read More",
+  "services": [
+    {
+      "id": "01",
+      "title": "Showroom",
+      "icon": "icon flaticon-living-room",
+      "content": "Showroom open to the public with 600m2 of exhibition space, where you can find different styles of furniture and decorative pieces. In this space, the customer can feel quality and comfort with personalized service where there is time for a coffee break.",
+      "image": "https://storage.googleapis.com/eco-lar-bucket/montagens/loja/IMG_197.jpg",
+      "url": "/ShowRoom"
+    },
+    {
+      "id": "02",
+      "title": "3D Projects",
+      "icon": "icon flaticon-home-1",
+      "content": "A team of interior designers who, in partnership with the architecture team, develop 3D projects where the client gets a realistic idea of ​​the spaces, whether it can be  one area of ​​the house or a  complete house.",
+      "image": "https://storage.googleapis.com/eco-lar-bucket/golf%2019_17%20-%20Foto.jpg",
+      "url": "/Proj3D"
+
+    },
+    {
+      "id": "03",
+      "title": "Renovations",
+      "icon": "icon flaticon-interior-design",
+      "content": "Much requested by our clients, small renovations that transform spaces dated by time into current and harmonious spaces. Preserving the soul of the house and its unique characteristics is a priority for us.", 
+      "image": "https://storage.googleapis.com/eco-lar-bucket/montagens/loja/IMG_147.jpg",
+      "url": "/Remodelacoes"
+
+    },
+    {
+      "id": "04",
+      "title": "Workshops",
+      "icon": "icon flaticon-renovation",
+      "content": "A team of seamstresses, upholsterers, painters and blacksmiths dedicated to creating the best work with all the exclusive details needed for a perfect project.",
+      "image": "https://storage.googleapis.com/eco-lar-bucket/atlier/IMG_099.jpg",
+      "url": "/Ateliers"
+
+    }
+    ],
+    "image": "/assets/img/slid/2.jpg"
+}

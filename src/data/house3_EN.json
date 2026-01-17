@@ -1,0 +1,82 @@
+
+{
+  "Title": "Sparkling uniquely designed, Crystal is a statement",
+  "IntroProj": 
+        {
+          "intro": "Introduction",
+          "text": "A house designed for comfort with a timeless decoration of neutral tones and sophisticated textures and, similarly, relaxed, inviting rest and tranquility. Outdoor fireplaces turn Autumn nights into summer nights. A perfect house to live outside. "
+        }
+      ,
+    "imageCapa": "https://storage.googleapis.com/eco-lar-bucket/Projects/House_3/capa.jpg",
+      "images": [
+        {
+          "id": 1,
+          "image": "https://storage.googleapis.com/eco-lar-bucket/Projects/House_3/IMG_2H_008.jpg"
+    
+        },
+        {
+          "id": 2,
+          "image": "https://storage.googleapis.com/eco-lar-bucket/Projects/House_3/IMG_2H_017.jpg"
+
+        },
+        {
+          "id": 3,
+          "image": "https://storage.googleapis.com/eco-lar-bucket/Projects/House_3/IMG_2H_019.jpg"
+
+        },
+        {
+          "id": 4,
+          "image": "https://storage.googleapis.com/eco-lar-bucket/Projects/House_3/IMG_2H_024.jpg"
+
+        },
+        {
+          "id": 5,
+          "image": "https://storage.googleapis.com/eco-lar-bucket/Projects/House_3/IMG_2H_026.jpg"
+
+        },
+        {
+          "id": 6,
+          "image": "https://storage.googleapis.com/eco-lar-bucket/Projects/House_3/IMG_2H_036.jpg"
+
+        },
+        {
+          "id": 7,
+          "image": "https://storage.googleapis.com/eco-lar-bucket/Projects/House_3/IMG_2H_042.jpg"
+
+        },
+        {
+          "id": 8,
+          "image": "https://storage.googleapis.com/eco-lar-bucket/Projects/House_3/IMG_2H_044.jpg"
+
+        },
+        {
+          "id": 9,
+          "image": "https://storage.googleapis.com/eco-lar-bucket/Projects/House_3/IMG_2H_066.jpg"
+        },
+        {
+          "id": 10,
+          "image": "https://storage.googleapis.com/eco-lar-bucket/Projects/House_3/IMG_2H_069.jpg"
+        }, 
+        {
+          "id": 11,
+          "image": "https://storage.googleapis.com/eco-lar-bucket/Projects/House_3/IMG_2H_073.jpg"
+
+        },
+        {
+          "id": 12,
+          "image": "https://storage.googleapis.com/eco-lar-bucket/Projects/House_3/IMG_2H_078.jpg"
+
+        },
+        {
+          "id": 13,
+          "image": "https://storage.googleapis.com/eco-lar-bucket/Projects/House_3/IMG_2H_089.jpg"
+
+        },
+        {
+          "id": 14,
+          "image": "https://storage.googleapis.com/eco-lar-bucket/Projects/House_3/IMG_2H_095.jpg"
+
+        }
+      
+   ]
+}

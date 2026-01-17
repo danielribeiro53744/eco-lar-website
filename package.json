@@ -1,0 +1,48 @@
+{
+  "name": "archo-react",
+  "homepage": "http://launch.eco-lar.com/",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "NODE_ENV=production node server.js"
+  },
+  "dependencies": {
+    "@emailjs/browser": "^3.11.0",
+    "@sendgrid/mail": "^7.7.0",
+    "cors": "^2.8.5",
+    "emailjs": "^4.0.2",
+    "emailjs-com": "^3.2.0",
+    "express": "^4.18.2",
+    "flag-icons": "^6.7.0",
+    "fs": "^0.0.1-security",
+    "i18next": "^23.2.6",
+    "lightgallery": "^2.7.1",
+    "next": "^12.3.4",
+    "react": "17.0.2",
+    "react-before-after-slider-component": "^1.1.6",
+    "react-bootstrap": "^2.8.0",
+    "react-circular-progressbar": "^2.0.4",
+    "react-dom": "17.0.2",
+    "react-i18next": "^13.0.1",
+    "react-lazyload": "^3.2.0",
+    "react-modal-video": "^1.2.8",
+    "react-scroll": "^1.8.4",
+    "react-slick": "^0.28.1",
+    "sass": "^1.45.0",
+    "semantic-ui-css": "^2.5.0",
+    "semantic-ui-react": "^2.1.5",
+    "slick-carousel": "^1.8.1",
+    "sweetalert2": "^11.10.2",
+    "swiper": "^7.3.2"
+  },
+  "devDependencies": {
+    "eslint": "8.4.1",
+    "eslint-config-next": "12.0.7"
+  },
+  "browser": {
+    "fs": false,
+    "os": false,
+    "path": false
+  }
+}

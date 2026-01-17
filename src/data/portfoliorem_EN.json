@@ -1,0 +1,15 @@
+{
+  "works" : "Remodelações",
+  "our" : "Our Renovations",
+    "portfolio": [
+      {
+        "id": 1,
+        "image": "https://storage.googleapis.com/eco-lar-bucket/Remodelacoes/rem1/IMG_0005.jpg",
+        "title": "Country side renovation",
+        "tag": "",
+        "filterClass": "casa",
+        "url": "/Remodelacao_1"
+  
+      }
+    ]
+}

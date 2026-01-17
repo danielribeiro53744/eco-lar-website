@@ -1,0 +1,39 @@
+{
+  "serv":"Serviços",
+  "services": [     
+
+     {
+        "id": 1,
+        "image": "https://storage.googleapis.com/eco-lar-bucket/atlier/IMG_087.jpg",
+        "frase": "O orgulho de ser manual",
+        "title": "Atelier",
+        "title2": "de Costura",
+        "texto": "Uma equipa de costureiras dedicadas em criar os melhores trabalhos de confeção com todos os detalhes e pormonores exclusivos e manuais."
+      },
+      {
+        "id": 2,
+        "image": "https://storage.googleapis.com/eco-lar-bucket/Atlier/shutterstock_1574952652.jpg",
+        "frase": "O orgulho de transformar",
+        "title": "Atelier",
+        "title2": "de Estofos",
+        "texto": "Temos artesãos que conseguem recuperar todos os típos de peças dando-lhes uma nova vida e tornando-as únicas."
+  
+      },      
+      {
+        "id": 3,
+        "image": "https://storage.googleapis.com/eco-lar-bucket/Atlier/shutterstock_377509549.jpg",
+        "frase": "O orgulho de Forjar ",
+        "title": "Atelier",
+        "title2": "do Ferro",
+        "texto": "A arte de trabalhar o ferro é muito vasta e desde pequenos móveis a portões os nossos ferreiros podem criar peças á medida de cada projeto."
+      },
+      {
+        "id": 4,
+        "image": "https://storage.googleapis.com/eco-lar-bucket/Atlier/shutterstock_2303391267.jpg",
+        "frase": "O orgulho de reaproveitar",
+        "title": "Atelier",
+        "title2": "de Restauro",
+        "texto": "Vários móveis de madeira ou de metal podem ser alterados e ganharem uma nova vida onde podem fazer toda a diferença nos projetos dos nossos clientes."
+      }
+    ]
+}

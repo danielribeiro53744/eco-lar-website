@@ -1,0 +1,81 @@
+
+{
+  "Title": "Clássico e intemporal",
+  "IntroProj": 
+        {
+          "intro": "Introdução",
+          "text": "Um projeto clássico, luxuoso e sofisticado, onde cada peça de arte demonstra a identidade e personalidade de cada ambiente. Apostando em peças exclusivas que remarcam um toque de Glamour. "
+        }
+      ,
+      "imageCapa": "https://storage.googleapis.com/eco-lar-bucket/Projects/House_7/DSC_4378_Enhancer.jpg",
+      "images": [
+        {
+          "id": 1,
+          "image": "https://storage.googleapis.com/eco-lar-bucket/Projects/House_7/DSC_4022_3_4_5_6_Enhancer1.jpg"
+    
+        },
+        {
+          "id": 2,
+          "image": "https://storage.googleapis.com/eco-lar-bucket/Projects/House_7/DSC_4073_4_5_6_7_8_Enhancer.jpg"
+
+        },
+        {
+          "id": 3,
+          "image": "https://storage.googleapis.com/eco-lar-bucket/Projects/House_7/DSC_4100_1_2_3_4_Fusion-2images.jpg"
+
+        },
+        {
+          "id": 4,
+          "image": "https://storage.googleapis.com/eco-lar-bucket/Projects/House_7/DSC_4119_20_21_22_Enhancer.jpg"
+
+        },
+        {
+          "id": 5,
+          "image": "https://storage.googleapis.com/eco-lar-bucket/Projects/House_7/DSC_4289_90_91_92_93_Enhancer.jpg"
+
+        },
+        {
+          "id": 6,
+          "image": "https://storage.googleapis.com/eco-lar-bucket/Projects/House_7/DSC_4378_Enhancer.jpg"
+
+        },
+        {
+          "id": 7,
+          "image": "https://storage.googleapis.com/eco-lar-bucket/Projects/House_7/DSC_4388_Enhancer.jpg"
+
+        },
+        {
+          "id": 8,
+          "image": "https://storage.googleapis.com/eco-lar-bucket/Projects/House_7/DSC_4466_7_8_9_Enhancer1.jpg"
+
+        },
+        {
+          "id": 9,
+          "image": "https://storage.googleapis.com/eco-lar-bucket/Projects/House_7/DSC_4496_Smooth%203.jpg"
+        },
+        {
+          "id": 10,
+          "image": "https://storage.googleapis.com/eco-lar-bucket/Projects/House_7/DSC_4569_70_71_72_73_Enhancer.jpg"
+        }, 
+        {
+          "id": 11,
+          "image": "https://storage.googleapis.com/eco-lar-bucket/Projects/House_7/DSC_4607_Realistic.jpg"
+
+        },
+        {
+          "id": 12,
+          "image": "https://storage.googleapis.com/eco-lar-bucket/Projects/House_7/DSC_4774_Soft%203.jpg"
+
+        },
+        {
+          "id": 13,
+          "image": "https://storage.googleapis.com/eco-lar-bucket/Projects/House_7/DSC_4795.JPG"
+
+        },
+        {
+          "id": 14,
+          "image": "https://storage.googleapis.com/eco-lar-bucket/Projects/House_7/IMG_1114.jpg"
+
+        }
+   ]
+}

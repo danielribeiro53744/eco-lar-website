@@ -1,0 +1,85 @@
+
+{
+  "Title": "Natural Light and Comfort: A Perfect Harmony",
+  "IntroProj": 
+        {
+          "intro": "Introduction",
+          "text":"This residence stands out for its harmonious integration of spacious areas and abundant natural light. Every detail has been thoughtfully designed to provide an experience of comfort and well-being, creating an environment that invites tranquility and togetherness."
+        }
+      ,
+      "imageCapa": "https://storage.googleapis.com/eco-lar-bucket/Projects/House_10/20250224_MonteSantoShowVilla96_018_FHD.JPG",
+      "images": [
+        {
+          "id": 1,
+          "image": "https://storage.googleapis.com/eco-lar-bucket/Projects/House_10/20250224_MonteSantoShowVilla96_001_FHD.JPG"
+        },
+        {
+          "id": 2,
+          "image": "https://storage.googleapis.com/eco-lar-bucket/Projects/House_10/20250224_MonteSantoShowVilla96_002_FHD.JPG"
+        },
+        {
+          "id": 3,
+          "image": "https://storage.googleapis.com/eco-lar-bucket/Projects/House_10/20250224_MonteSantoShowVilla96_003_FHD.JPG"
+        },
+        {
+          "id": 4,
+          "image": "https://storage.googleapis.com/eco-lar-bucket/Projects/House_10/20250224_MonteSantoShowVilla96_004_FHD.JPG"
+        },
+        {
+          "id": 5,
+          "image": "https://storage.googleapis.com/eco-lar-bucket/Projects/House_10/20250224_MonteSantoShowVilla96_005_FHD.JPG"
+        },
+        {
+          "id": 6,
+          "image": "https://storage.googleapis.com/eco-lar-bucket/Projects/House_10/20250224_MonteSantoShowVilla96_007_FHD.JPG"
+        },
+        {
+          "id": 7,
+          "image": "https://storage.googleapis.com/eco-lar-bucket/Projects/House_10/20250224_MonteSantoShowVilla96_010_FHD.JPG"
+        },
+        {
+          "id": 8,
+          "image": "https://storage.googleapis.com/eco-lar-bucket/Projects/House_10/20250224_MonteSantoShowVilla96_012_FHD.JPG"
+        },
+        {
+          "id": 9,
+          "image": "https://storage.googleapis.com/eco-lar-bucket/Projects/House_10/20250224_MonteSantoShowVilla96_013_FHD.JPG"
+        },
+        {
+          "id": 10,
+          "image": "https://storage.googleapis.com/eco-lar-bucket/Projects/House_10/20250224_MonteSantoShowVilla96_020_FHD.JPG"
+        },
+        {
+          "id": 11,
+          "image": "https://storage.googleapis.com/eco-lar-bucket/Projects/House_10/20250224_MonteSantoShowVilla96_022_FHD.JPG"
+        },
+        {
+          "id": 12,
+          "image": "https://storage.googleapis.com/eco-lar-bucket/Projects/House_10/20250224_MonteSantoShowVilla96_023_FHD.JPG"
+        },
+        {
+          "id": 13,
+          "image": "https://storage.googleapis.com/eco-lar-bucket/Projects/House_10/20250224_MonteSantoShowVilla96_025_FHD.JPG"
+        },
+        {
+          "id": 14,
+          "image": "https://storage.googleapis.com/eco-lar-bucket/Projects/House_10/20250224_MonteSantoShowVilla96_026_FHD.JPG"
+        },
+        {
+          "id": 15,
+          "image": "https://storage.googleapis.com/eco-lar-bucket/Projects/House_10/20250224_MonteSantoShowVilla96_029_FHD.JPG"
+        },
+        {
+          "id": 16,
+          "image": "https://storage.googleapis.com/eco-lar-bucket/Projects/House_10/20250224_MonteSantoShowVilla96_030_FHD.JPG"
+        },
+        {
+          "id": 17,
+          "image": "https://storage.googleapis.com/eco-lar-bucket/Projects/House_10/20250224_MonteSantoShowVilla96_031_FHD.JPG"
+        },
+        {
+          "id": 18,
+          "image": "https://storage.googleapis.com/eco-lar-bucket/Projects/House_10/20250224_MonteSantoShowVilla96_033_FHD.JPG"
+        }
+      ]
+}

@@ -1,0 +1,137 @@
+{
+  "works" : "Melhores Projetos",
+  "our" : "O nosso Portfolio",
+  "all" : "Todos",
+  "projects" : "Projetos",
+  "filtersName": [
+      {
+        "id": 1,
+        "name": "Residências",
+        "filterClass": ".casa"
+      },
+      {
+        "id": 2,
+        "name": "Hotelaria",
+        "filterClass": ".restaurante"
+      }
+    ],
+    "portfolio": [
+      {
+      "id": 14,
+      "image": "https://storage.googleapis.com/eco-lar-bucket/Projects/House_10/20250224_MonteSantoShowVilla96_018_FHD.JPG",
+      "title": "Luz Natural e Conforto: Uma Harmonia Perfeita",
+      "tag": "",
+      "filterClass": "casa",
+      "url": "/House_10"
+    },
+      {
+        "id": 13,
+        "image": "https://storage.googleapis.com/eco-lar-bucket/Projects/House_9/Capa.jpeg",
+        "title": "Um Refúgio de Sofisticação e Conforto",
+        "tag": "",
+        "filterClass": "casa",
+        "url": "/House_9"
+      },
+
+      {
+        "id": 2,
+        "image": "https://storage.googleapis.com/eco-lar-bucket/Projects/House_8/capa.jpg",
+        "title": "Elegância Contemporânea em Cada Detalhe",
+        "tag": "",
+        "filterClass": "casa",
+        "url": "/House_8"
+      },
+
+      {
+        "id": 1,
+        "image": "https://storage.googleapis.com/eco-lar-bucket/Projects/House_1/IMG_HOUSE_004.jpg",
+        "title": "A melhor vista numa vila exclusiva",
+        "tag": "",
+        "filterClass": "casa",
+        "url": "/House_1"
+  
+      },
+
+      {
+        "id": 3,
+        "image": "https://storage.googleapis.com/eco-lar-bucket/Projects/House_2/IMG_1H_064.jpg",
+        "title": "Paixão por viagens",
+        "tag": "",
+        "filterClass": "casa",
+        "url": "/House_2"
+      },
+      
+      {
+        "id": 4,
+        "image": "https://storage.googleapis.com/eco-lar-bucket/Projects/House_3/capa.jpg",
+        "title": "Conforto intemporal e sofisticado",
+        "tag": "",
+        "filterClass": "casa",
+        "url": "/House_3"
+      },
+      {
+        "id": 5,
+        "image": "https://storage.googleapis.com/eco-lar-bucket/Projects/Restaurante_2/GigiBar-3.jpg",
+        "title": "Bar Gigi",
+        "tag": "",
+        "filterClass": "restaurante",
+        "url": "/Restaurante_2"
+      },
+      {
+        "id": 6,
+        "image": "https://storage.googleapis.com/eco-lar-bucket/Projects/Apart_1/IMG_091.jpg",
+        "title": "Vista sobre o lago",
+        "tag": "",
+        "filterClass": "apartmento",
+        "url": "/Apartamento_1"
+      },
+      {
+        "id": 7,
+        "image": "https://storage.googleapis.com/eco-lar-bucket/Projects/House_4/capa.jpg",
+        "title": "O poder da cor, cada espaço conta uma história",
+        "tag": "",
+        "filterClass": "casa",
+        "url": "/House_4"
+      },
+      {
+        "id": 8,
+        "image": "https://storage.googleapis.com/eco-lar-bucket/Projects/House_5/capa_IMG_012.jpg",
+        "title": "Novo lar num novo continente",
+        "tag": "",
+        "filterClass": "casa",
+        "url": "/House_5"
+      },
+      {
+        "id": 9,
+        "image": "https://storage.googleapis.com/eco-lar-bucket/Projects/House_6/capa.jpg",
+        "title": "Colecionar momentos em familia",
+        "tag": "",
+        "filterClass": "casa",
+        "url": "/House_6"
+      },
+      {
+        "id": 10,
+        "image": "https://storage.googleapis.com/eco-lar-bucket/Projects/House_7/DSC_4378_Enhancer.jpg",
+        "title": "Clássico e intemporal",
+        "tag": "",
+        "filterClass": "casa",
+        "url": "/House_7"
+      },
+      {
+        "id": 11,
+        "image": "https://storage.googleapis.com/eco-lar-bucket/Projects/Restaurante_1/capa.jpg",
+        "title": "Casa do Lago, Quinta do Lago Resort",
+        "tag": "",
+        "filterClass": "restaurante",
+        "url": "/Restaurante_1"
+      },
+      {
+        "id": 12,
+        "image": "https://storage.googleapis.com/eco-lar-bucket/Projects/Hotel_1/403%20Print-5.jpg",
+        "title": "Hotel CountryClub",
+        "tag": "",
+        "filterClass": "restaurante",
+        "url": "/Hotel_1"
+      }
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "sub_title" : "About us",
+    "title_first" : "",
+    "title_second" :"",
+    "content" : "Eco-lar was founded in 1994 by a couple passionate about travel and exclusive pieces, it started with a small studio that little by little grew into a strong reference in interior design and decoration in the Algarve. Our best brand image is that of an eclectic store, bringing together pieces from different parts of the world, focusing on conscious and exclusive design, with various works carried out in Portugal and abroad. We are a leading team in the market recognized and recommended by our customers, our team is very young and dynamic prepared to meet the most ambitious challenges, we have at our disposal the most varied international and national brands as well as Portuguese factories that develop and produce furniture designed by us to meet the needs of our projects.",
+    "textList": [
+      {
+        "id": 1,
+        "name": "Projects"
+      },
+      {
+        "id": 2,
+        "name": "ShowRoom"
+      },
+      {
+        "id": 3,
+        "name": "Workshops"
+      }
+      ],
+      "read_more": "read more",
+      "exp" : "+30",
+      "years_experience": "Years of Experience",
+      "image1": "",
+      "image2": "https://storage.googleapis.com/eco-lar-bucket/Staff/IMG_127.jpg"
+}

@@ -1,0 +1,43 @@
+{
+    "content": [
+      {
+        "id": 1,
+        "title": { "first": "", "second": "Serene Sunset" },
+        "content": {
+          "first": "Harmonious and comfortable rooms where all the corners are an invitation to appreciate the sunset.",
+          "second": ""
+        },
+        "image": "https://storage.googleapis.com/eco-lar-bucket/Intro-Horizontal/IMG_031.jpg"
+      },
+      {
+        "id": 2,
+        "title": { "first": "", "second": "The power of color, every room tells a story" },
+        "content": {
+          "first": "Maximalism brings an unique sense of taste, on a distinctive Home.",
+          "second": ""
+        },
+        "image": "https://storage.googleapis.com/eco-lar-bucket/Intro-Horizontal/IMG_056.jpg"
+      },
+      {
+        "id": 3,
+        "title": { "first": "", "second": "Passion for Tavel" },
+        "content": {
+          "first": "This house was based on collecting moments in different places all over the world.",
+          "second": ""
+        },
+        "image": "https://storage.googleapis.com/eco-lar-bucket/Intro-Horizontal/intro3.jpg"
+      },
+      {
+        "id": 4,
+        "title": {
+          "first": "",
+          "second": "On the lake"
+        },
+        "content": {
+          "first": "Nautical inspiration with an exclusive touch of elegance.",
+          "second": ""
+        },
+        "image": "https://storage.googleapis.com/eco-lar-bucket/Intro-Horizontal/intro4.jpg"
+      }
+    ]
+}

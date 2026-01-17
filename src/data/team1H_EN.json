@@ -1,0 +1,59 @@
+{
+    "team": [
+        {
+          "id": 1,
+          "image": "https://storage.googleapis.com/eco-lar-bucket/Staff/vendedores/IMG_147.jpg",
+          "facebook": "#",
+          "twitter": "#",
+          "behance": "#",
+          "linkedin": "#",
+          "username": "Isabel Santos",
+          "usertitle": "Founder and Project “Director”",
+          "description": "I am passionate about my work and my team. Every day is different at Eco-lar. My greatest pride is looking at our portfolio and seeing how exclusive and original they are. My inspiration comes from my journey with the client, which is always a unique experience, where I let myself get involved with their  history, culture and  how I can help create their dream environment, be it a private or professional space. As a favorite hobby I like to go where I have never been before, I make each project a new  exclusive and surprising creation."
+        },
+        {
+          "id": 2,
+          "image":  "https://storage.googleapis.com/eco-lar-bucket/Staff/vendedores/Untitled.png",
+          "facebook": "#",
+          "twitter": "#",
+          "behance": "#",
+          "linkedin": "#",
+          "username": "Paulo Santos",
+          "usertitle": "Founder and Construction and Remodelling “Director”",
+          "description": "I love to accept hard challenges that transform soulless spaces in modern and revitalised spaces. Always in sync with the latest technologies and the newest modern life demands. My biggest pride throughout the last almost three decades since Eco-Lar was founded is that all our clients ended up with unique and highly valued projects. I love our after-sales services considering it the most important aspect in my company. My favourite hobby is kite surfing and scuba diving. My defining characteristic is versatility, the sea taught me how to adapt to the different scenarios in my professional life."
+        },
+        {
+          "id": 3,
+          "image":  "https://storage.googleapis.com/eco-lar-bucket/Staff/vendedores/IMG_049.jpg",
+          "facebook": "#",
+          "twitter": "#",
+          "behance": "#",
+          "linkedin": "#",
+          "username": "Flor Peixeiro",
+          "usertitle": "Interior Decorator",
+          "description" : "I am a happy, intuitive person and passionate about people. I always try to find the harmony of spaces while maintaining their essence. I have 20 years of experience in various interior projects such as apartments, villas and hotels. Perhaps the characteristic that best suits me defines is being able to easily capture the essence of the project, meeting what the client is looking for. Passionate about color, I always try to integrate it using feno shui intuitive.  As a hobby, I like to photograph and dance. At the end of each project, what fascinates me mostly is capturing the emotions of my clients."
+        },
+        {
+          "id": 4,
+          "image": "https://storage.googleapis.com/eco-lar-bucket/Staff/vendedores/IMG_056.jpg",
+          "facebook": "#",
+          "twitter": "#",
+          "behance": "#",
+          "linkedin": "#",
+          "username": "Vânia Viegas",
+          "usertitle": "CO Designer",
+          "description" : "I am passionate about life and the people around me. I have the pleasure of working in the Algarve, an infinite source of inspiration bathed in Nature and Light, which is so characteristic and unique. In each client I find a challenge as if it were a melody, all The different genres and rhythms lead me to always create something exclusive, meeting each client. As a hobby I practice yoga, flexibility allows me to adjust to all my clients' needs."
+        },
+        {
+          "id": 5,
+          "image": "https://storage.googleapis.com/eco-lar-bucket/Staff/vendedores/barbara.jpg",
+          "facebook": "#",
+          "twitter": "#",
+          "behance": "#",
+          "linkedin": "#",
+          "username": "Barbara Andrês",
+          "usertitle": "Interior Decorator",
+          "description" : "I'm extremely positive, the kind of person who even in the face of difficulties says: Everything will be fine! Organisation, practicality, and detail are part of what I am, and that is why in each project I think about all the details with an intention for each space. What motivates and inspires me is being able to help each client through my work." 
+        }
+    ]
+}

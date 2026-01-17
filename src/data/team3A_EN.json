@@ -1,0 +1,29 @@
+{
+    "title": "Founders",
+    "team": [
+        {
+          "id": 1,
+          "image": "https://storage.googleapis.com/eco-lar-bucket/Staff/vendedores/IMG_147.jpg",
+          "username": "Isabel Santos",
+          "usertitle": "Founder Project Director"
+        },
+        {
+          "id": 2,
+          "image":  "https://storage.googleapis.com/eco-lar-bucket/Staff/vendedores/Untitled.png",
+          "username": "Paulo Santos",
+          "usertitle": "Founder Director of Construction and Renovations"
+        },
+        {
+          "id": 3,
+          "image":  "https://storage.googleapis.com/eco-lar-bucket/Staff/vendedores/IMG_049.jpg",
+          "username": "Flor Peixeiro",
+          "usertitle": "Interior Decorator"
+        },
+        {
+          "id": 4,
+          "image": "https://storage.googleapis.com/eco-lar-bucket/Staff/vendedores/IMG_056.jpg",
+          "username": "Vania Viegas",
+          "usertitle": "CO Designer"
+        }
+    ]
+}

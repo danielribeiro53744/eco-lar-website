@@ -1,0 +1,60 @@
+
+{
+  "Title": "Hotel CountryClub",
+  "Visit": "Faça a sua visita",
+  "Link" : "https://www.quintadolagocc.com/",
+  "IntroProj": 
+        {
+          "intro": "Introdução",
+          "text": "Hotel com 50 anos, no coração da Quinta do Lago, com uma vista esplêndida sobre o Lago e a Ria Formosa, decoração colorida, inspirada nas cores da Ria formosa, na sua fauna e flora. Tem como elemento principal os corais nos painéis das cabeceiras dos quartos."
+        }
+      ,
+    "imageCapa": "https://storage.googleapis.com/eco-lar-bucket/Projects/Hotel_1/403%20Print-5.jpg",
+      "images": [
+        {
+          "id": 1,
+          "image": "https://storage.googleapis.com/eco-lar-bucket/Projects/Hotel_1/403%20Insta-7.jpg"
+    
+        },
+        {
+          "id": 2,
+          "image": "https://storage.googleapis.com/eco-lar-bucket/Projects/Hotel_1/403%20Print-13.jpg"
+
+        },
+        {
+          "id": 3,
+          "image": "https://storage.googleapis.com/eco-lar-bucket/Projects/Hotel_1/403%20Print-19.jpg"
+
+        },
+        {
+          "id": 4,
+          "image": "https://storage.googleapis.com/eco-lar-bucket/Projects/Hotel_1/403%20Print-4.jpg"
+
+        },
+        {
+          "id": 5,
+          "image": "https://storage.googleapis.com/eco-lar-bucket/Projects/Hotel_1/403%20Print-5.jpg"
+
+        },
+        {
+          "id": 6,
+          "image": "https://storage.googleapis.com/eco-lar-bucket/Projects/Hotel_1/403%20Web-14.jpg"
+
+        },
+        {
+          "id": 7,
+          "image": "https://storage.googleapis.com/eco-lar-bucket/Projects/Hotel_1/403%20Web-18.jpg"
+
+        },
+        {
+          "id": 8,
+          "image": "https://storage.googleapis.com/eco-lar-bucket/Projects/Hotel_1/403%20Web-6.jpg"
+
+        },
+        {
+          "id": 9,
+          "image": "https://storage.googleapis.com/eco-lar-bucket/Projects/Hotel_1/403%20Web-8.jpg"
+        }
+        
+   ]
+}

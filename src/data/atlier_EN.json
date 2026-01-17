@@ -1,0 +1,38 @@
+{
+  "serv":"Service",
+  "services": [     
+     {
+        "id": 1,
+        "image": "https://storage.googleapis.com/eco-lar-bucket/atlier/IMG_087.jpg",
+        "frase": "Proud to be manual",
+        "title": "Sewing",
+        "title2": "Workshop",
+        "texto": "A team of seamstresses dedicated to creating the best clothing work with all the exclusive and manual technics ."
+      },
+      {
+        "id": 2,
+        "image": "https://storage.googleapis.com/eco-lar-bucket/Atlier/shutterstock_1574952652.jpg",
+        "frase": "Proud to transform",
+        "title": "Upholstery",
+        "title2": "Workshop",
+        "texto": "We have artisans who can upholster all different models of sofas and chairs giving them a new life and making them unique."
+  
+      },      
+      {
+        "id": 3,
+        "image": "https://storage.googleapis.com/eco-lar-bucket/Atlier/shutterstock_377509549.jpg",
+        "frase": "Proud to forge",
+        "title": "Iron",
+        "title2": "workshop",
+        "texto": "The art of working with iron is very vast and from small furniture to gates, our blacksmiths can create tailor-made pieces for each project."
+      },
+      {
+        "id": 4,
+        "image": "https://storage.googleapis.com/eco-lar-bucket/Atlier/shutterstock_2303391267.jpg",
+        "frase": "Proud to reuse",
+        "title": "Restoration",
+        "title2": "workshop",
+        "texto": "Furniture either in wood or iron can be or altered and given a new life where they can make all the difference in our clients homes."
+      }
+    ]
+}

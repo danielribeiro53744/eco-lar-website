@@ -1,0 +1,306 @@
+{
+  "Title": "Country side renovation",
+  "IntroProj": 
+        {
+          "intro": "Introduction",
+          "text": "Working in the area of ​​rehabilitation of houses with history and transforming them into unique homes, with unforgettable details. This is the case with this renovation, which highlights the all-concrete staircase, the recycled wood beams and all the custom-made carpentry, including the kitchen."
+        }
+      ,
+    "imageCapa": "https://storage.googleapis.com/eco-lar-bucket/Remodelacoes/rem1/IMG_0005.jpg",
+      "images": [
+        {
+          "id": 1,
+          "image": "https://storage.googleapis.com/eco-lar-bucket/Remodelacoes/rem1/IMG_0001.jpg"
+    
+        },
+        {
+          "id": 2,
+          "image": "https://storage.googleapis.com/eco-lar-bucket/Remodelacoes/rem1/IMG_0003.jpg"
+
+        },
+        {
+          "id": 3,
+          "image": "https://storage.googleapis.com/eco-lar-bucket/Remodelacoes/rem1/IMG_0004.jpg"
+
+        },
+        {
+          "id": 4,
+          "image": "https://storage.googleapis.com/eco-lar-bucket/Remodelacoes/rem1/IMG_0006.jpg"
+
+        },
+        {
+          "id": 5,
+          "image": "https://storage.googleapis.com/eco-lar-bucket/Remodelacoes/rem1/IMG_0007.jpg"
+
+        },
+        {
+          "id": 6,
+          "image": "https://storage.googleapis.com/eco-lar-bucket/Remodelacoes/rem1/IMG_0010.jpg"
+
+        },
+        {
+          "id": 7,
+          "image": "https://storage.googleapis.com/eco-lar-bucket/Remodelacoes/rem1/IMG_0011.jpg"
+
+        },
+        {
+          "id": 8,
+          "image": "https://storage.googleapis.com/eco-lar-bucket/Remodelacoes/rem1/IMG_0015.jpg"
+
+        },
+        {
+          "id": 9,
+          "image": "https://storage.googleapis.com/eco-lar-bucket/Remodelacoes/rem1/IMG_0016.jpg"
+        },
+        {
+          "id": 10,
+          "image": "https://storage.googleapis.com/eco-lar-bucket/Remodelacoes/rem1/IMG_0017.jpg"
+        }, 
+        {
+          "id": 11,
+          "image": "https://storage.googleapis.com/eco-lar-bucket/Remodelacoes/rem1/IMG_0018.jpg"
+
+        },
+        {
+          "id": 12,
+          "image": "https://storage.googleapis.com/eco-lar-bucket/Remodelacoes/rem1/IMG_0020.jpg"
+
+        },
+        {
+          "id": 13,
+          "image": "https://storage.googleapis.com/eco-lar-bucket/Remodelacoes/rem1/IMG_0135.jpg"
+
+        },
+        {
+          "id": 14,
+          "image": "https://storage.googleapis.com/eco-lar-bucket/Remodelacoes/rem1/IMG_0022.jpg"
+
+        },
+        {
+          "id": 15,
+          "image": "https://storage.googleapis.com/eco-lar-bucket/Remodelacoes/rem1/IMG_0023.jpg"
+
+        },
+        {
+          "id": 16,
+          "image": "https://storage.googleapis.com/eco-lar-bucket/Remodelacoes/rem1/IMG_0027.jpg"
+
+        },
+        {
+          "id": 18,
+          "image": "https://storage.googleapis.com/eco-lar-bucket/Remodelacoes/rem1/IMG_0028.jpg"
+        },
+        {
+          "id": 19,
+          "image": "https://storage.googleapis.com/eco-lar-bucket/Remodelacoes/rem1/IMG_0030.jpg"
+        },       
+         {
+          "id": 20,
+          "image": "https://storage.googleapis.com/eco-lar-bucket/Remodelacoes/rem1/IMG_0031.jpg"
+
+        },
+        {
+          "id": 21,
+          "image": "https://storage.googleapis.com/eco-lar-bucket/Remodelacoes/rem1/IMG_0032.jpg"
+
+        },
+        {
+          "id": 22,
+          "image": "https://storage.googleapis.com/eco-lar-bucket/Remodelacoes/rem1/IMG_0033.jpg"
+
+        },
+        {
+          "id": 23,
+          "image": "https://storage.googleapis.com/eco-lar-bucket/Remodelacoes/rem1/IMG_0036.jpg"
+
+        },
+        {
+          "id": 24,
+          "image": "https://storage.googleapis.com/eco-lar-bucket/Remodelacoes/rem1/IMG_0037.jpg"
+
+        },
+        {
+          "id": 25,
+          "image": "https://storage.googleapis.com/eco-lar-bucket/Remodelacoes/rem1/IMG_0039.jpg"
+        },
+        {
+          "id": 26,
+          "image": "https://storage.googleapis.com/eco-lar-bucket/Remodelacoes/rem1/IMG_0040.jpg"
+        },
+        {
+          "id": 27,
+          "image": "https://storage.googleapis.com/eco-lar-bucket/Remodelacoes/rem1/IMG_0044.jpg"
+        },
+        {
+          "id": 28,
+          "image": "https://storage.googleapis.com/eco-lar-bucket/Remodelacoes/rem1/IMG_0045.jpg"
+        }, 
+        {
+          "id": 29,
+          "image": "https://storage.googleapis.com/eco-lar-bucket/Remodelacoes/rem1/IMG_0046.jpg"
+        }, 
+        {
+          "id": 30,
+          "image": "https://storage.googleapis.com/eco-lar-bucket/Remodelacoes/rem1/IMG_0048.jpg"
+        },
+         {
+          "id": 31,
+          "image": "https://storage.googleapis.com/eco-lar-bucket/Remodelacoes/rem1/IMG_0052.jpg"
+        }, 
+        {
+          "id": 32,
+          "image": "https://storage.googleapis.com/eco-lar-bucket/Remodelacoes/rem1/IMG_0053.jpg"
+        }, 
+        {
+          "id": 33,
+          "image": "https://storage.googleapis.com/eco-lar-bucket/Remodelacoes/rem1/IMG_0054.jpg"
+        }, 
+        {
+          "id": 34,
+          "image": "https://storage.googleapis.com/eco-lar-bucket/Remodelacoes/rem1/IMG_0055.jpg"
+        }, 
+        {
+          "id": 35,
+          "image": "https://storage.googleapis.com/eco-lar-bucket/Remodelacoes/rem1/IMG_0057.jpg"
+        }, 
+        {
+          "id": 36,
+          "image": "https://storage.googleapis.com/eco-lar-bucket/Remodelacoes/rem1/IMG_0059.jpg"
+        },
+         {
+          "id": 37,
+          "image": "https://storage.googleapis.com/eco-lar-bucket/Remodelacoes/rem1/IMG_0060.jpg"
+        },
+         {
+          "id": 38,
+          "image": "https://storage.googleapis.com/eco-lar-bucket/Remodelacoes/rem1/IMG_0061.jpg"
+        }, 
+        {
+          "id": 39,
+          "image": "https://storage.googleapis.com/eco-lar-bucket/Remodelacoes/rem1/IMG_0063.jpg"
+        }, {
+          "id": 40,
+          "image": "https://storage.googleapis.com/eco-lar-bucket/Remodelacoes/rem1/IMG_0064.jpg"
+        },
+        {
+          "id": 41,
+          "image": "https://storage.googleapis.com/eco-lar-bucket/Remodelacoes/rem1/IMG_0067.jpg"
+        },
+        {
+          "id": 42,
+          "image": "https://storage.googleapis.com/eco-lar-bucket/Remodelacoes/rem1/IMG_0068.jpg"
+        },
+        {
+          "id": 43,
+          "image": "https://storage.googleapis.com/eco-lar-bucket/Remodelacoes/rem1/IMG_0071.jpg"
+        },
+        {
+          "id": 44,
+          "image": "https://storage.googleapis.com/eco-lar-bucket/Remodelacoes/rem1/IMG_0072.jpg"
+        },
+        {
+          "id": 45,
+          "image": "https://storage.googleapis.com/eco-lar-bucket/Remodelacoes/rem1/IMG_0073.jpg"
+        },
+        {
+          "id": 46,
+          "image": "https://storage.googleapis.com/eco-lar-bucket/Remodelacoes/rem1/IMG_0074.jpg"
+        },
+        {
+          "id": 47,
+          "image": "https://storage.googleapis.com/eco-lar-bucket/Remodelacoes/rem1/IMG_0075.jpg"
+        },
+        {
+          "id": 48,
+          "image": "https://storage.googleapis.com/eco-lar-bucket/Remodelacoes/rem1/IMG_0076.jpg"
+        },
+        {
+          "id": 49,
+          "image": "https://storage.googleapis.com/eco-lar-bucket/Remodelacoes/rem1/IMG_0077.jpg"
+        },
+        {
+          "id": 50,
+          "image": "https://storage.googleapis.com/eco-lar-bucket/Remodelacoes/rem1/IMG_0078.jpg"
+        },
+        {
+          "id": 51,
+          "image": "https://storage.googleapis.com/eco-lar-bucket/Remodelacoes/rem1/IMG_0079.jpg"
+        },
+        {
+          "id": 52,
+          "image": "https://storage.googleapis.com/eco-lar-bucket/Remodelacoes/rem1/IMG_0080.jpg"
+        },
+        {
+          "id": 53,
+          "image": "https://storage.googleapis.com/eco-lar-bucket/Remodelacoes/rem1/IMG_0081.jpg"
+        },
+        {
+          "id": 54,
+          "image": "https://storage.googleapis.com/eco-lar-bucket/Remodelacoes/rem1/IMG_0083.jpg"
+        },
+        {
+          "id": 55,
+          "image": "https://storage.googleapis.com/eco-lar-bucket/Remodelacoes/rem1/IMG_0084.jpg"
+        },
+        {
+          "id": 56,
+          "image": "https://storage.googleapis.com/eco-lar-bucket/Remodelacoes/rem1/IMG_0085.jpg"
+        },
+        {
+          "id": 57,
+          "image": "https://storage.googleapis.com/eco-lar-bucket/Remodelacoes/rem1/IMG_0086.jpg"
+        },
+        {
+          "id": 58,
+          "image": "https://storage.googleapis.com/eco-lar-bucket/Remodelacoes/rem1/IMG_0087.jpg"
+        },
+        {
+          "id": 59,
+          "image": "https://storage.googleapis.com/eco-lar-bucket/Remodelacoes/rem1/IMG_0089.jpg"
+        },
+        {
+          "id": 60,
+          "image": "https://storage.googleapis.com/eco-lar-bucket/Remodelacoes/rem1/IMG_0091.jpg"
+        },
+        {
+          "id": 61,
+          "image": "https://storage.googleapis.com/eco-lar-bucket/Remodelacoes/rem1/IMG_0092.jpg"
+        },
+        {
+          "id": 62,
+          "image": "https://storage.googleapis.com/eco-lar-bucket/Remodelacoes/rem1/IMG_0093.jpg"
+        },
+        {
+          "id": 63,
+          "image": "https://storage.googleapis.com/eco-lar-bucket/Remodelacoes/rem1/IMG_0095.jpg"
+        },
+        {
+          "id": 64,
+          "image": "https://storage.googleapis.com/eco-lar-bucket/Remodelacoes/rem1/IMG_0096.jpg"
+        },
+        {
+          "id": 65,
+          "image": "https://storage.googleapis.com/eco-lar-bucket/Remodelacoes/rem1/IMG_0098.jpg"
+        },
+        {
+          "id": 66,
+          "image": "https://storage.googleapis.com/eco-lar-bucket/Remodelacoes/rem1/IMG_0099.jpg"
+        },
+        {
+          "id": 67,
+          "image": "https://storage.googleapis.com/eco-lar-bucket/Remodelacoes/rem1/IMG_0100.jpg"
+        },
+        {
+          "id": 68,
+          "image": "https://storage.googleapis.com/eco-lar-bucket/Remodelacoes/rem1/IMG_0101.jpg"
+        },
+        {
+          "id": 69,
+          "image": "https://storage.googleapis.com/eco-lar-bucket/Remodelacoes/rem1/IMG_0124.jpg"
+        },
+        {
+          "id": 70,
+          "image": "https://storage.googleapis.com/eco-lar-bucket/Remodelacoes/rem1/IMG_0134.jpg"
+        }
+   ]
+}

@@ -1,0 +1,60 @@
+{
+    "team": [
+        {
+          "id": 1,
+          "image": "https://storage.googleapis.com/eco-lar-bucket/Staff/vendedores/IMG_147.jpg",
+          "facebook": "#",
+          "twitter": "#",
+          "behance": "#",
+          "linkedin": "#",
+          "username": "Isabel Santos",
+          "usertitle": "Fundadora Diretora de Projetos",
+          "description": "Sou apaixonada pelo meu trabalho e pela minha equipa. \nTodos os dias são diferentes na Eco-lar. O meu maior orgulho é olhar para o nosso portfolio e ver como são exclusivos e originais todos os projetos. A minha inspiração surge da minha jornada com o cliente que é sempre uma experiência única, onde me deixo envolver com a sua historia, com a sua cultura e como criar o seu ambiente de sonho seja ele um espaço particular ou profissional. Como hobby favorito gosto de ir onde nunca fui e faço de cada trabalho uma criação nova exclusiva e surpreendente."
+        },
+        {
+          "id": 2,
+          "image":  "https://storage.googleapis.com/eco-lar-bucket/Staff/vendedores/Untitled.png",
+          "facebook": "#",
+          "twitter": "#",
+          "behance": "#",
+          "linkedin": "#",
+          "username": "Paulo Santos",
+          "usertitle": "Fundador Diretor de Obras e Remodelações",
+          "description": "Gosto de aceitar desafios difíceis que podem transformar espaços sem alma em espaços revitalizados e modernizados. Sempre atento ás últimas tecnologias e com os layouts que a vida moderna atual demanda. O meu maior orgulho ao longo destas três décadas de Eco-lar é saber que todos os meus clientes ficam com um projecto único e valorizado. Gosto do serviço pós venda pois considero ser o mais importante para a minha empresa. Como hobbies faço kite-surf e mergulho. A característica que me melhor define é a flexibilidade."
+        },
+        {
+          "id": 3,
+          "image":  "https://storage.googleapis.com/eco-lar-bucket/Staff/vendedores/IMG_049.jpg",
+          "facebook": "#",
+          "twitter": "#",
+          "behance": "#",
+          "linkedin": "#",
+          "username": "Flor Peixeiro",
+          "usertitle": "Decoradora de Interiores",
+          "description" : "Sou uma pessoa alegre, intuitiva e apaixonada por pessoas. Procuro sempre ir ao encontro da harmonia dos espaços mantendo a sua essência. Conto com 20 anos de experiência em projectos de interiores diversos tais como apartamentos , moradias e hotéis. Talvez a característica que melhor me define seja conseguir captar facilmente a essência do projeto indo ao encontro do que o cliente procura.\nApaixonada pela cor procuro sempre integrá-la utilizando o feng-shui intuitivo. Como Hobbie gosto de fotografar e dançar. No final de cada projecto o que mais me fascina é captar as emoções dos meus clientes ."
+        },
+        {
+          "id": 4,
+          "image": "https://storage.googleapis.com/eco-lar-bucket/Staff/vendedores/IMG_056.jpg",
+          "facebook": "#",
+          "twitter": "#",
+          "behance": "#",
+          "linkedin": "#",
+          "username": "Vania Viegas",
+          "usertitle": "CO Designer",
+          "description" : "Sou uma apaixonada pela vida e pelas pessoas que me rodeiam. Tenho o prazer de trabalhar no Algarve fonte infinita de inspiração banhada pela Natureza e Luz que é tão característica e única. Em cada projeto encontro um desafio como se de uma melodia se tratasse , todos os géneros e ritmos diferentes levam-me a criar algo sempre exclusivo , indo ao encontro de cada cliente Como hobbie pratico yoga , a flexibilidade permite-me ajustar a todas as necessidades dos meus clientes."
+        },
+        {
+          "id": 5,
+          "image": "https://storage.googleapis.com/eco-lar-bucket/Staff/vendedores/barbara.jpg",
+          "facebook": "#",
+          "twitter": "#",
+          "behance": "#",
+          "linkedin": "#",
+          "username": "Barbara Andrês",
+          "usertitle": "Descoradora de Interiores",
+          "description" : "Sou extremamente positiva, o tipo de pessoa que até diante das dificuldades diz: 'Vai dar tudo certo!'. A organização, praticidade e o detalhe fazem parte daquilo que sou, e por isso em cada projeto penso em todos os detalhes com uma intenção para cada espaço. O que me motiva e inspira é poder ajudar cada cliente através do meu trabalho. Como hobbie, adoro caminhadas na natureza com a companhia dos meus cães."
+        }
+        
+    ]
+}

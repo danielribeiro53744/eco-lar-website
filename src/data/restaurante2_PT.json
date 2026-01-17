@@ -1,0 +1,78 @@
+
+{
+  "Title": "Bar Gigi",
+  "Visit": "Faça a sua visita",
+  "Link" : "https://www.quintadolago.com/pt/restaurantes/gigis-bar/",
+  "IntroProj": 
+        {
+          "intro": "Introdução",
+          "text": "Com as tradicionais cores amarelo e azul, mobiliário feito à medida com design exclusivo. Uma zona com lareira desafia os visitantes a tardes longas com vista sobre as dunas e cheiro a mar. Aqui reside o pôr do sol mais conhecido do Algarve."
+        }
+      ,
+      "imageCapa": "https://storage.googleapis.com/eco-lar-bucket/Projects/Restaurante_2/GigiBar-3.jpg",
+      "images": [
+        {
+          "id": 1,
+          "image": "https://storage.googleapis.com/eco-lar-bucket/Projects/Restaurante_2/Exterior%2034.jpg"
+    
+        },
+        {
+          "id": 2,
+          "image": "https://storage.googleapis.com/eco-lar-bucket/Projects/Restaurante_2/Exterior%2045.jpg"
+
+        },
+        {
+          "id": 3,
+          "image": "https://storage.googleapis.com/eco-lar-bucket/Projects/Restaurante_2/Exterior%2046.jpg"
+
+        },
+        {
+          "id": 4,
+          "image": "https://storage.googleapis.com/eco-lar-bucket/Projects/Restaurante_2/Exterior%2047.jpg"
+
+        },
+        {
+          "id": 5,
+          "image": "https://storage.googleapis.com/eco-lar-bucket/Projects/Restaurante_2/Exterior%2048.jpg"
+
+        },
+        {
+          "id": 6,
+          "image": "https://storage.googleapis.com/eco-lar-bucket/Projects/Restaurante_2/Exterior%2051.jpg"
+
+        },
+        {
+          "id": 7,
+          "image": "https://storage.googleapis.com/eco-lar-bucket/Projects/Restaurante_2/Exterior%2058.jpg"
+
+        },
+        {
+          "id": 8,
+          "image": "https://storage.googleapis.com/eco-lar-bucket/Projects/Restaurante_2/Exterior%2061.jpg"
+
+        },
+        {
+          "id": 9,
+          "image": "https://storage.googleapis.com/eco-lar-bucket/Projects/Restaurante_2/Exterior%2065.jpg"
+        },
+        {
+          "id": 10,
+          "image": "https://storage.googleapis.com/eco-lar-bucket/Projects/Restaurante_2/GigiBar-1.jpg"
+        }, 
+        {
+          "id": 11,
+          "image": "https://storage.googleapis.com/eco-lar-bucket/Projects/Restaurante_2/GigiBar-2.jpg"
+
+        },
+        {
+          "id": 12,
+          "image": "https://storage.googleapis.com/eco-lar-bucket/Projects/Restaurante_2/GigiBar-3.jpg"
+
+        },
+        {
+          "id": 13,
+          "image": "https://storage.googleapis.com/eco-lar-bucket/Projects/Restaurante_2/GigiBar-4.jpg"
+
+        }
+   ]
+}

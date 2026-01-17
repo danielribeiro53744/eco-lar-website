@@ -1,0 +1,44 @@
+{
+  "features": "Melhores características",
+  "service": "Os nossos serviços",
+  "more":"Ler Mais",
+  "services": [
+      {
+        "id": "01",
+        "title": "Showroom",
+        "icon": "icon flaticon-living-room",
+        "content": "Showroom aberto ao público com 600m2 de exposição, onde podem encontrar diversos estilos de mobiliário e peças decorativas. Neste espaço, o cliente pode sentir a qualidade e conforto com um atendimento personalizado onde existe tempo para uma pausa e um café.",
+        "image": "https://storage.googleapis.com/eco-lar-bucket/montagens/loja/IMG_197.jpg",
+        "url": "/ShowRoom"
+      },
+      {
+        "id": "02",
+        "title": "Projectos 3D",
+        "icon": "icon flaticon-home-1",
+        "content": "Uma equipa de designers de interiores que em parceria com a equipa de arquitetura desenvolvem projetos em 3D onde o cliente fica com uma ideia realista dos espaços, pode ser feito apenas uma àrea da casa ou casas completas.",
+        "image": "https://storage.googleapis.com/eco-lar-bucket/golf%2019_17%20-%20Foto.jpg",
+        "url": "/Proj3D"
+
+      },
+      {
+        "id": "03",
+        "title": "Remodelações",
+        "icon": "icon flaticon-interior-design",
+        "content": "Bastante solicitado pelos nossos clientes , pequenas remodelações que transformam espaços datados pelo tempo em espaços atuais e harmoniosos. A preservação da alma da casa e suas características únicas são uma prioridade para nós.", 
+        "image": "https://storage.googleapis.com/eco-lar-bucket/montagens/loja/IMG_147.jpg",
+        "url": "/Remodelacoes"
+
+      },
+      {
+        "id": "04",
+        "title": "Ateliers",
+        "icon": "icon flaticon-renovation",
+        "content": "Uma equipa de costureiras, estofadores, pintores e ferreiros dedicados em criar os melhores trabalhos com todo o detalhe e promenores excluisvos.",
+        "image": "https://storage.googleapis.com/eco-lar-bucket/atlier/IMG_099.jpg",
+        "url": "/Ateliers"
+
+      }
+
+    ],
+    "image": "/assets/img/slid/2.jpg"
+}

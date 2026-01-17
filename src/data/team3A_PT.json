@@ -1,0 +1,29 @@
+{
+    "title": "Fundadores",
+    "team": [
+        {
+          "id": 1,
+          "image": "https://storage.googleapis.com/eco-lar-bucket/Staff/vendedores/IMG_147.jpg",
+          "username": "Isabel Santos",
+          "usertitle": "Fundadora Diretora de Projetos"
+        },
+        {
+          "id": 2,
+          "image":  "https://storage.googleapis.com/eco-lar-bucket/Staff/vendedores/Untitled.png",
+          "username": "Paulo Santos",
+          "usertitle": "Fundador Diretor de Obras e Remodelações"
+        },
+        {
+          "id": 3,
+          "image":  "https://storage.googleapis.com/eco-lar-bucket/Staff/vendedores/IMG_049.jpg",
+          "username": "Flor Peixeiro",
+          "usertitle": "Decoradora de Interiores"
+        },
+        {
+          "id": 4,
+          "image": "https://storage.googleapis.com/eco-lar-bucket/Staff/vendedores/IMG_056.jpg",
+          "username": "Vania Viegas",
+          "usertitle": "CO Designer"
+        }
+    ]
+}

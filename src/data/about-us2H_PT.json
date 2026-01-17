@@ -1,0 +1,25 @@
+{
+    "sub_title" : "Sobre nós",
+    "title_first" : "O melhor Design*",
+    "title_second" : "Arquitetura para ti.*",
+        "content" : "A Eco-lar foi fundada em 1994 por um casal apaixonado por viagens e por peças exclusivas , começou com um pequeno atelier que pouco a pouco cresceu tornado-se numa forte referência do Design e decoração de interiores no Algarve . A nossa melhor imagem de marca é de uma loja eclética, reunindo peças de várias partes do mundo , apostando num design consciente e exclusivo , contando com diversos trabalhos realizados em Portugal e no estrangeiro .\n Somos uma equipa líder no mercado reconhecida e recomendada pelos nossos clientes , a nossa equipa é muito jovem e dinâmica preparada para ir ao encontro dos desafios mais ambiciosos , temos ao nosso dispor as mais variadíssimas marcas internacionais e nacionais bem como fábricas portuguesas que desenvolvem e produzem mobiliário desenhado por nós á medida das necessidades dos nossos projetos.",
+     "textList": [
+        {
+          "id": 1,
+          "name": "Projetos"
+        },
+        {
+          "id": 2,
+          "name": "ShowRoom"
+        },
+        {
+          "id": 3,
+          "name": "Ateliers"
+        }
+      ],
+      "read_more": "ler mais",
+      "exp" : "+30",
+      "years_experience": "Anos de Experiência",
+      "image1": "",
+      "image2": "https://storage.googleapis.com/eco-lar-bucket/Staff/IMG_127.jpg"
+}
