@@ -22,6 +22,7 @@ import { useTranslation } from "react-i18next";
 
 const Projects = (imagens) => {
   const { t } = useTranslation();
+  const [validImages, setValidImages] = useState([]);
   const [visibleCount, setVisibleCount] = useState(9);
   const [loading, setLoading] = useState(false);
   const [currentPage, setCurrentPage] = useState(1);
@@ -32,17 +33,38 @@ const Projects = (imagens) => {
     setLoading(true);
     setTimeout(() => {
       setCurrentPage(pageNumber);
-      console.log("teste")
       setVisibleCount((prev) => prev + 6)
       setLoading(false);
     }, 1000); // simulate loading delay
   };
+
+  const validateImage = (url) => {
+  return new Promise((resolve) => {
+    const img = new Image();
+    img.src = url;
+    img.onload = () => resolve(true);
+    img.onerror = () => resolve(false);
+  });
+};
+
   React.useEffect(() => {
-    handlePageChange(currentPage+1)
+    // handlePageChange(currentPage+1)
+    const checkImages = async () => {
+    const filtered = [];
+
+    for (const item of imagens.imagens) {
+      const isValid = await validateImage(item.image);
+      if (isValid) filtered.push(item);
+    }
+
+    setValidImages(filtered);
+  };
+
+  checkImages();
     setTimeout(() => {
       if (window.Isotope) initIsotope();
     }, 10000);
-  }, []);
+  }, [imagens]);
   
   return (
     <>
@@ -108,14 +130,14 @@ const Projects = (imagens) => {
           speed={500}
           plugins={[lgThumbnail, lgZoom, lgFullscreen, lgAutoplay]}
           >
-             <ProjImages imagens={imagens.imagens} limit={visibleCount} loading key={visibleCount}/>
+             <ProjImages imagens={validImages} limit={visibleCount} loading key={visibleCount}/>
              
           </LightGallery>
           
           </div>
           
         </div>
-        {visibleCount < imagens.imagens.length && (
+        {visibleCount < validImages.length && (
           <div className="text-center">
         <a
           onClick={() => handlePageChange(currentPage+1)}

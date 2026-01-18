@@ -41,20 +41,24 @@ const Projects = ({ imagens, limit = 9, loading }) => {
   return (
     <>
      
-              {imagens.map((item, index) => (
+              {imagens.map((item, index) => ( 
+                
                 <a href={item.image} key={item.id} >
                   {index < visibleCount ? (
-                    <div className="col-lg-4 col-md-6 items theaters">
+                    <div className="col-lg-4 col-md-6 items theaters items-gallery">
                     <div className="item" >
                       <div className="img" >
                         <img 
                         id={"imgPort"+item.id} 
-                        className="projImg"
+                        className="projImg img-gallery"
                         src={item.image} 
                         alt="" 
                         // style={{width:'80%', height:'10em'}} 
                         // onMouseEnter={() => setIsShown(item.id)}
                         // onMouseLeave={() => setIsNotShown(item.id)}
+                        onError={(e) => {
+                          e.target.style.display = "none";
+                        }}
                         /> 
                         
                       </div>

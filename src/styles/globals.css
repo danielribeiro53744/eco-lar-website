@@ -621,13 +621,39 @@ body.hideX .pace {
 
 /* <<<<< */
 
+.items-gallery{
+  width: 100%;
+  height: 250px;        /* set a consistent height */
+  object-fit: cover;    /* keeps aspect ratio but fills the box */
+  object-position: center;
+  border-radius: 8px;   /* optional */
+}
 
+.img-gallery{
+  max-height: 230px;
+}
+@media (max-width: 1200px) {
+  .img-gallery {
+    max-height: 200px;
+  }
+}
 
 .projImg {
+  
+  opacity: 0;
   transition: transform 0.3s ease, box-shadow 0.3s ease; /* smooth transitions */
+   animation: fadeIn 2s ease forwards;
+    animation-delay: 1s; /* WAIT 3 SECONDS BEFORE START */
 }
 .projImg:hover{
   transform: scale(1.005); /* slightly zoom in */
   box-shadow: 0 8px 20px #cfa673; /* subtle glow */
 
+}
+
+@keyframes fadeIn {
+  to {
+    opacity: 1;
+    transform: scale(1);
+  }
 }
