@@ -9,22 +9,33 @@ import { useTranslation} from "react-i18next";
 const Team1H = () =>{
   const { t } = useTranslation();
   let slider = 0
+  const [state, setState] = useState({
+    activeSlide: 0,
+    activeSlide2: 0
+  });
   const renderArrows = () => {
+    console.log(state.activeSlide);
     return (
       <div className="navs mt-30 wow fadeInUp" data-wow-delay=".3s" id="team1H">
-        <span className="prev" onClick={() => slider.slickPrev()}>
+        <span className="prev" onClick={() => BeforeImage()}>
           <i className="fas fa-long-arrow-alt-left"></i>
         </span>
-        <span className="next" onClick={() => slider.slickNext()}>
+        <span className="next" onClick={() => NextImage()}>
           <i className="fas fa-long-arrow-alt-right"></i>
         </span>
       </div>
     );
   };
-  const [state, setState] = useState({
-    activeSlide: 0,
-    activeSlide2: 0
-  });
+
+  const NextImage = () => {
+    setState({ activeSlide: (state.activeSlide + 1) % t("Team1H.team", { returnObjects: true }).length  });
+    
+  };
+  const BeforeImage = () => {
+    setState({ activeSlide: (state.activeSlide - 1 + t("Team1H.team", { returnObjects: true }).length) % t("Team1H.team", { returnObjects: true }).length  });
+    
+  };
+  
  
     return (
       <section className="team section-padding">
@@ -49,7 +60,7 @@ const Team1H = () =>{
             </div>
             <div className="col-lg-7">
               
-              <Slider
+              {/* <Slider
                 className="team-container"
                 {...{
                   ref: (c) => (slider = c),
@@ -86,37 +97,38 @@ const Team1H = () =>{
                     },
                   ],
                 }}
-              >
+              > */}
                 {t("Team1H.team", { returnObjects: true }).map((item) => (
-                  <div
-                    className="item wow fadeInUp"
-                    data-wow-delay=".3s"
-                    key={item.id}
-                  >
-                    <div className="img wow imago">
-                      <img src={item.image} alt="" />
-                      {/* <div className="social">
-                        <a href={item.facebook}>
-                          <i className="fab fa-facebook-f"></i>
-                        </a>
-                        <a href={item.twitter}>
-                          <i className="fab fa-twitter"></i>
-                        </a>
-                        <a href={item.behance}>
-                          <i className="fab fa-behance"></i>
-                        </a>
-                        <a href={item.linkedin}>
-                          <i className="fab fa-linkedin-in"></i>
-                        </a>
-                      </div> */}
+                  (item.id-1) === state.activeSlide && (
+                    <div
+                      className="item wow fadeInRight"
+                      data-wow-delay=".3s"
+                      key={item.id}
+                    >
+                      <div className="img ">
+                        <img src={item.image} alt="" />
+                        {/* <div className="social">
+                          <a href={item.facebook}>
+                            <i className="fab fa-facebook-f"></i>
+                          </a>
+                          <a href={item.twitter}>
+                            <i className="fab fa-twitter"></i>
+                          </a>
+                          <a href={item.behance}>
+                            <i className="fab fa-behance"></i>
+                          </a>
+                          <a href={item.linkedin}>
+                            <i className="fab fa-linkedin-in"></i>
+                          </a>
+                        </div> */}
+                      </div>
+                      <div className="info">
+                        <h5>{item.username}</h5>
+                        <span>{item.usertitle}</span>
+                      </div>
                     </div>
-                    <div className="info">
-                      <h5>{item.username}</h5>
-                      <span>{item.usertitle}</span>
-                    </div>
-                  </div>
-                ))}
-              </Slider>
+                )))}
+              {/* </Slider> */}
             </div>
           </div>
         </div>
