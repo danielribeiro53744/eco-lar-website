@@ -657,3 +657,66 @@ body.hideX .pace {
     transform: scale(1);
   }
 }
+
+
+.slider-item {
+  position: absolute;
+   /* display: block;        🔑 FIX */
+  width: 100%;
+  height: 100%;
+  transition: all 0.5s ease;
+  opacity: 0;
+  /* transform: translateX(100%); */
+}
+
+.slider-item.active {
+  opacity: 1;
+  transform: translateX(0);
+  z-index: 3;
+}
+
+.slider-item.left {
+  /* opacity: 0.6; */
+  visibility: hidden;
+  transform: translateX(-100%);
+  z-index: 2;
+  pointer-events: none;
+}
+
+.slider-item.right {
+  /* opacity: 0.6; */
+  visibility: hidden;
+  transform: translateX(100%);
+  z-index: 2;
+  pointer-events: none;
+}
+
+.slider-item.hidden {
+  /* opacity: 0; */
+  visibility: hidden;
+  z-index: 1;
+  pointer-events: none;
+}
+
+.slider-container {
+  height: 1200px;
+  @media screen and (max-width: 1200px) {
+    height: 1025px;
+  }
+  @media screen and (max-width: 991px) {
+    height: 1340px;
+  }
+  @media screen and (max-width: 767px) {
+    height: 990px;
+  }
+  @media screen and (max-width: 575px) {
+    height: 1070px;
+  }
+  @media screen and (max-width: 520px) {
+    height: 950px;
+  }
+  @media screen and (max-width: 450px) {
+    height: 820px;
+  }
+
+}

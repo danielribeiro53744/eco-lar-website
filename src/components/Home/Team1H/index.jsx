@@ -58,7 +58,7 @@ const Team1H = () =>{
                 {renderArrows()}
               </div>
             </div>
-            <div className="col-lg-7">
+            <div className="col-lg-7 slider-container">
               
               {/* <Slider
                 className="team-container"
@@ -92,42 +92,56 @@ const Team1H = () =>{
                       breakpoint: 480,
                       settings: {
                         slidesToShow: 1,
-                        autoplay: false,
+                        autoplay: true,
                       },
                     },
                   ],
                 }}
               > */}
-                {t("Team1H.team", { returnObjects: true }).map((item) => (
-                  (item.id-1) === state.activeSlide && (
-                    <div
-                      className="item wow fadeInRight"
-                      data-wow-delay=".3s"
-                      key={item.id}
-                    >
-                      <div className="img ">
-                        <img src={item.image} alt="" />
-                        {/* <div className="social">
-                          <a href={item.facebook}>
-                            <i className="fab fa-facebook-f"></i>
-                          </a>
-                          <a href={item.twitter}>
-                            <i className="fab fa-twitter"></i>
-                          </a>
-                          <a href={item.behance}>
-                            <i className="fab fa-behance"></i>
-                          </a>
-                          <a href={item.linkedin}>
-                            <i className="fab fa-linkedin-in"></i>
-                          </a>
-                        </div> */}
+              
+                {t("Team1H.team", { returnObjects: true }).map((item, index) => {
+                  const position =
+                          index === state.activeSlide
+                            ? "active"
+                            : index === state.activeSlide - 1
+                            ? "left"
+                            : index === state.activeSlide + 1
+                            ? "right"
+                            : "hidden";
+                  return (
+                    // (item.id-1) === state.activeSlide && (
+
+                      <div
+                          className={`item wow fadeInRight slider-item ${position}`}
+                        data-wow-delay=".3s"
+                        key={item.id}
+                      >
+                        <div className="img ">
+                          <img src={item.image} alt="" />
+                          {/* <div className="social">
+                            <a href={item.facebook}>
+                              <i className="fab fa-facebook-f"></i>
+                            </a>
+                            <a href={item.twitter}>
+                              <i className="fab fa-twitter"></i>
+                            </a>
+                            <a href={item.behance}>
+                              <i className="fab fa-behance"></i>
+                            </a>
+                            <a href={item.linkedin}>
+                              <i className="fab fa-linkedin-in"></i>
+                            </a>
+                          </div> */}
+                        </div>
+                        <div className="info">
+                          <h5>{item.username}</h5>
+                          <span>{item.usertitle}</span>
+                        </div>
                       </div>
-                      <div className="info">
-                        <h5>{item.username}</h5>
-                        <span>{item.usertitle}</span>
-                      </div>
-                    </div>
-                )))}
+                  )
+                // )
+              })}
+
               {/* </Slider> */}
             </div>
           </div>
